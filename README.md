@@ -1,5 +1,5 @@
 # Caffe to TensorFlow
-### Edited by AjiNugroho
+Edited by [AjiNugroho](https://github.com/AjiNugroho)
 
 Convert [Caffe](https://github.com/BVLC/caffe/) models to [TensorFlow](https://github.com/tensorflow/tensorflow).
 
